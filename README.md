@@ -2,7 +2,7 @@
 
 ### 🚀 Desenvolvedor em Formação | Java Enthusiast
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0077B5&height=100&text=CARLOS%20CARDOZO&fontSize=70" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0077B5&height=100&text=Olá,%20seja%20bem-vindo&fontSize=60" width="100%">
 
 <div align="center">
 
@@ -16,13 +16,12 @@
 
 ---
 
-### 🔍 Sobre mim
-Sou apaixonado por transformar lógica em código eficiente. Atualmente estou mergulhado no ecossistema Java!
-
-* 🔭 **Desafio Atual:** Construindo um Sistema de Gestão de RH
-* 🌱 **Evoluindo em:** Java Avançado, Git e Estruturas de Dados
-* 💬 **Bora conversar sobre:** Back-end, POO e o futuro da tecnologia
-* ⚡ **Curiosidade:** Focado em escrever código limpo e escalável.
+### 📖 Sobre mim
+Sou um apaixonado por tecnologia, focado em criar soluções eficientes e escaláveis. Atualmente:
+- 🔭 Atualmente trabalhando em: [Projeto de Gestão de RH]
+- 🌱 Aprendendo: [Git, GitHub e Java]
+- 💬 Pergunte-me sobre: [Java e Lógica de Programação]
+- 👯 Procuro colaborar em: Projetos Open Source.
 
 ---
 
@@ -31,15 +30,6 @@ Sou apaixonado por transformar lógica em código eficiente. Atualmente estou me
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</div>
-
----
-
-### 📊 Meu Desempenho no GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carlos-CardozoS&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-CardozoS&layout=compact&theme=tokyonight" alt="Top Langs" />
 </div>
 
 ---
