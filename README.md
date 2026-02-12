@@ -2,9 +2,10 @@
 
 ### 🚀 Desenvolvedor em Formação | Java Enthusiast
 
-![Banner](https://capsule-render.vercel.app/api?type=distine&color=0077B5&height=120&text=Carlos%20Cardozo&fontSize=60)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0077B5&height=100&text=CARLOS%20CARDOZO&fontSize=70" width="100%">
 
 <div align="center">
+
 <a href="https://www.linkedin.com/in/seu-perfil">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
