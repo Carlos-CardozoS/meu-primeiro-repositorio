@@ -1,4 +1,4 @@
-# Olá, mundo! 👋 Eu sou Carlos Cardozo
+# Olá, pessoas! 👋 Eu sou Carlos Cardozo
 
 ### 👨‍💻 Desenvolvedor em Formação | Java Enthusiast
 
@@ -24,19 +24,10 @@ Sou apaixonado por tecnologia, focado em criar soluções eficientes e escaláve
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
 ---
 
-### 📊 Estatísticas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carlos-CardozoS&show_icons=true&theme=dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-CardozoS&layout=compact&theme=dark&hide_border=true" height="150" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Carlos-CardozoS&color=0077B5&style=flat-square&label=VISITAS+AO+PERFIL" alt="Views" />
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Carlos-CardozoS&color=0077B5&style=flat-square&label=VISITAS" alt="Views" />
 </div>
