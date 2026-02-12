@@ -2,10 +2,10 @@
 
 ### 🚀 Desenvolvedor em Formação | Java Enthusiast
 
-![Banner](https://capsule-render.vercel.app/api?type=desc&color=eb4034&secondaryColor=9c27b0&height=180&text=Bem-vindo%20ao%20meu%20universo%20Java&fontSize=45&animation=fadeIn&fontColor=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=distine&color=0077B5&height=120&text=Carlos%20Cardozo&fontSize=60)
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil">
+<a href="https://www.linkedin.com/in/seu-perfil">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:rick.cardozo2007@gmail.com">
